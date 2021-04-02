@@ -1,0 +1,6 @@
+{
+  "title": "Первая практика js",
+  "description": "В этом курсе, мы научимся использовать js для работы с html элементами",
+  "dependencies": ["js-syntax", "layout-base"],
+  "tasks": ["js-create-element"]
+}
